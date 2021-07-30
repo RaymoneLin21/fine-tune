@@ -1,0 +1,4 @@
+This is about my academic project.
+model:LSTM
+compare original LSTM with my reinforce LSTM
+Loss function: sigma[f(x)-f(x')]^2
